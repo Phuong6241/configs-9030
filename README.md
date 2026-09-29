@@ -1,2 +1,12 @@
 # configs-9030
-Project assets and resources
+
+Handy snippets
+
+## Contents
+
+```
+
+assets/    bundled resources
+```
+
+Small personal collection kept in sync across machines.
